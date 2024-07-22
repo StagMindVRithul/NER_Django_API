@@ -1,0 +1,12 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+media/
+static/
+node_modules/
+dist/
+
+# Database
+db.sqlite3
